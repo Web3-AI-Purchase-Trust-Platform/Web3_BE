@@ -27,13 +27,13 @@ Nền tảng kết hợp **Web3** để xây dựng giao diện phi tập trung 
 ## 🛠️ Kiến trúc kỹ thuật
 
 ### 1. **Frontend (Giao diện người dùng)**
-- Công nghệ: **React.js** hoặc **Next.js**.  
+- Công nghệ: **Next.js**.  
 - Tính năng chính:
-  - Kết nối ví crypto như **MetaMask**, **WalletConnect**.  
+  - Kết nối ví crypto như **MetaMask**.  
   - Giao diện thân thiện và tối ưu hóa cho trải nghiệm người dùng.  
 
 ### 2. **Backend (Xử lý dữ liệu)**
-- Công nghệ: **Node.js** hoặc **Nest.js**.  
+- Công nghệ: Java Spring Boot.  
 - Tính năng chính:
   - API Gateway kết nối blockchain và giao diện người dùng.  
   - Lưu trữ dữ liệu phi tập trung trên **IPFS**.  
@@ -46,7 +46,7 @@ Nền tảng kết hợp **Web3** để xây dựng giao diện phi tập trung 
   - **Check Ownership**: Kiểm tra quyền sở hữu thông qua lịch sử giao dịch.  
 
 ### 4. **Bảo mật**
-- Xác thực thông qua ví crypto (MetaMask, WalletConnect).  
+- Xác thực thông qua ví crypto (MetaMask).  
 - Mã hóa dữ liệu giao dịch, đảm bảo tính riêng tư và toàn vẹn dữ liệu.  
 - Kiểm tra tính toàn vẹn dữ liệu với **Merkle Tree**.  
 
@@ -58,7 +58,7 @@ Nền tảng kết hợp **Web3** để xây dựng giao diện phi tập trung 
    - Mint NFT để lưu trữ tài sản.  
    - Metadata được lưu trên blockchain/IPFS.  
 3. **Thực hiện giao dịch**:  
-   - Người dùng giao dịch tài sản với nhau, thanh toán bằng token (ETH, MATIC).  
+   - Người dùng giao dịch tài sản với nhau, thanh toán bằng token (ETH, MATIC, ...).  
 4. **Kiểm tra lịch sử giao dịch**:  
    - Lịch sử giao dịch minh bạch và có thể kiểm tra trực tiếp trên blockchain.  
 
@@ -68,11 +68,7 @@ Nền tảng kết hợp **Web3** để xây dựng giao diện phi tập trung 
 - **Phân tích giao dịch**:  
   - Nhận diện các giao dịch bất thường (fraud detection).  
   - Đưa ra báo cáo về xu hướng thị trường.  
-- **Cá nhân hóa người dùng**:  
-  - Đề xuất sản phẩm hoặc giao dịch phù hợp với từng nhóm người dùng.  
-- **Định giá tài sản**:  
-  - Phân tích giá trị của NFT/token dựa trên dữ liệu thị trường.  
-
+  Song Đạt thêm sau.....
 ---
 
 ## 🛤️ Lộ trình phát triển
@@ -103,6 +99,6 @@ Dự án được cấp phép theo [MIT License](LICENSE).
 ---
 
 ## 🤝 Đội ngũ phát triển
-- **Phát triển Web3**: [Tên bạn/nhóm Web3].  
-- **Tích hợp AI**: [Tên nhóm AI].  
-- **Quản lý dự án**: [Tên quản lý].  
+- **Phát triển Web3**: [Lê Hoàng Việt, Trần Minh Khang/Maverick Web3].  
+- **Tích hợp AI**: [Nguyễn Tất Đạt, Nguyễn Minh Đạt/Maverick AI].  
+- **BA**: [Hồng Ánh].  
