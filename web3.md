@@ -68,7 +68,9 @@ Nền tảng kết hợp **Web3** để xây dựng giao diện phi tập trung 
 - **Phân tích giao dịch**:  
   - Nhận diện các giao dịch bất thường (fraud detection).  
   - Đưa ra báo cáo về xu hướng thị trường.  
-  Song Đạt thêm sau.....
+  - Dự đoán giá trị tài sản dựa trên dữ liệu lịch sử.  
+  - Tối ưu hóa chiến lược giao dịch cho người dùng.  
+
 ---
 
 ## 🛤️ Lộ trình phát triển
@@ -101,4 +103,4 @@ Dự án được cấp phép theo [MIT License](LICENSE).
 ## 🤝 Đội ngũ phát triển
 - **Phát triển Web3**: [Lê Hoàng Việt, Trần Minh Khang/Maverick Web3].  
 - **Tích hợp AI**: [Nguyễn Tất Đạt, Nguyễn Minh Đạt/Maverick AI].  
-- **BA**: [Hồng Ánh].  
+- **BA**: [Bùi Lê Hồng Ánh].
